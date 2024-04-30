@@ -1,0 +1,1 @@
+KEY = 'django-insecure-lb$&cen%=ws_i)+c4ou&^rc(0+rv#@en5512i)c_eg8^&*3sg6'
